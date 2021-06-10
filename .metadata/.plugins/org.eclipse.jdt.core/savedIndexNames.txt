@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+D:\Ricardo\DevSuperior\BootCamp Spring-React\TrabalhoFinalCap02\.metadata\.plugins\org.eclipse.jdt.core
+1965174767.index
+4285359159.index
+3692993580.index
+738465438.index
+292613264.index
+2967057503.index
+863422455.index
+1159187862.index
